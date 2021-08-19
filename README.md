@@ -28,11 +28,11 @@ See: https://h5p.org/development-environment
 
 4. Enable H5P Dev mode:
 
-  1. login to drupal dashboard
-  2. go to modules panel
-  3. scroll down to "other" section
-  4. enable h5p Modules
-  5. Configure h5p:
+  - login to drupal dashboard
+  - go to modules panel
+  - scroll down to "other" section
+  - enable h5p Modules
+  - Configure h5p:
 
     1. Check options: "Enable H5P development mode" and "Enable library development directory (For programmers only)"
 
