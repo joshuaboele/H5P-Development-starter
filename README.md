@@ -42,7 +42,7 @@ h5p.classes.php on line 2747
 ```
 $key  =  substr_replace($key, strtoupper($key[$next  +  1]), $next, 2);
 ```
-h5p-development.class.php op line 70
+h5p-development.class.php on line 70
 ```
 if ($contents[$i][0] ===  '.') {
 ```
