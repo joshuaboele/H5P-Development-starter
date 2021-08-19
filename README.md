@@ -18,6 +18,9 @@ See: https://h5p.org/development-environment
 
 3. Start the dev server and install drupal and configure.
 
+  - Incase you don't have the correct PHP extensions enabled, make sure to open the `php.ini` file and remove the semicolon infront of `extension=gd
+` on line 926.
+
   > Start server for the contents of `drupal` dir, see notes for step 2
 
   > Follow drupal instructions
